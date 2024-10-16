@@ -1,1 +1,1 @@
-# ChExt: Chrome Extension 
+# ChExt: Chrome Extension Development Framework
